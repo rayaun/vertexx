@@ -2759,11 +2759,13 @@ input[type='radio'] + label:before {
 }
 
 .wrapper.style3 .icon.major:before {
-  color: #b74e91;
+  color: #261c3e;
+  /* b74e91 */
 }
 
 .wrapper.style3-alt .icon.major:before {
-  color: #953d75;
+  color: #312450;
+  /* 953d75 */
 }
 
 /* Image */
